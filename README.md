@@ -11,10 +11,12 @@
       <ul>
           <li>
               Deviations are calculated by taking the absolute differences of the joint angles and dividing them by the true (MoCap) value.
+              The output of angles_combined.ipynb is the input to this file.
           </li>
       </ul>
       </li>
 </ul>
-</li>
-  
+</li>  
 </ol>
+
+<p>Sample outputs of differences.csv and the deviation PDF are attached.</p>
